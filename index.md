@@ -6,3 +6,5 @@
 
 <code>for i in this:
   do this</code>
+
+![Image of lufc badge](https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/800px-Leeds_United_F.C._logo.svg.png)
